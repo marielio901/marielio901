@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 I'm Mario, a Data Scientist from Brazil turning data into decisions.</h2>
+<h2 align="left">Hi I'm Mario, a Data Scientist from Brazil turning data into decisions.</h2>
 
 ###
 
