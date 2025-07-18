@@ -44,7 +44,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/marielio901/marielio901/output/snake.svg" alt="Snake animation" />
-
-###
