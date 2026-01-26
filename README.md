@@ -22,8 +22,6 @@
 <!-- Tech Stack Section -->
 <div align="center">
   <h3>🛠️ Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,go,rust,git,linux,docker&perline=9&theme=dracula"
-    alt="Tech Stack" />
 </div>
 
 <br />
