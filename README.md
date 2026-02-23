@@ -28,7 +28,6 @@
 
 <!-- GitHub Stats Section -->
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
   <table align="center">
     <tr>
       <td align="center">
@@ -37,9 +36,6 @@
           alt="Mario's GitHub Stats" />
       </td>
       <td align="center">
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=marielio901&layout=compact&theme=dracula&hide_border=true&bg_color=282A36"
-          alt="Mario's Top Languages" />
       </td>
     </tr>
   </table>
