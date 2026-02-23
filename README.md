@@ -26,10 +26,6 @@
   <table align="center">
     <tr>
       <td align="center">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=marielio901&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=282A36"
-          alt="Mario's GitHub Stats" />
-      </td>
       <td align="center">
       </td>
     </tr>
