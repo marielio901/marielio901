@@ -1,10 +1,5 @@
 <!-- Header with Typing Effect -->
 <div align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=282A3600&center=true&vCenter=true&width=435&lines=Hi+I'm+Mario;Data+Scientist+from+Brazil;Turning+Data+into+Decisions"
-    alt="Typing SVG" />
-</div>
-
 <!-- Bio Section -->
 <div align="center">
   <h3>🚀 About Me</h3>
